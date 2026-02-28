@@ -1,7 +1,7 @@
 ## Hi! I'm Tomine 👋
 
 - 🌱 First year student of Front-End at Noroff Vocational School
-- 🤔 I’m currently working to improve my JavaScript skills
+- 🤔 Currently working to improve my JavaScript skills
 - 😄 Pronouns: she/her
 
 ## Tech stack
