@@ -16,4 +16,4 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ## Github Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tominehaug)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tominehaug&theme=merko)](https://git.io/streak-stats)
