@@ -1,6 +1,6 @@
 ## Hi! I'm Tomine 👋
 
-- 🌱 I’m a first year student of Front-End at Noroff Vocational School
+- 🌱 First year student of Front-End at Noroff Vocational School
 - 🤔 I’m currently working to improve my JavaScript skills
 - 😄 Pronouns: she/her
 
