@@ -1,4 +1,4 @@
-## Hi! I'm Tomine 👋
+### Hi! I'm Tomine 👋
 
 - 🌱 First year student of Front-End at Noroff Vocational School
 - 🤔 Currently working to improve my JavaScript skills
